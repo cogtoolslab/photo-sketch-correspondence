@@ -39,7 +39,7 @@ pip install kornia tensorboard opencv-python-headless
 ```
 
 ## Data Preparation
-After you download the Sketchy dataset and our PSC6K benchmark following [PSC6K Benchmark Readme](PSC6K_Benchmark_README.md), 
+After you download the Sketchy dataset and our PSC6K benchmark following [PSC6K Benchmark README](PSC6K_Benchmark_README.md), 
 you can unzip them into an arbitrary directory. 
 
 The expected file structure is as follows:
