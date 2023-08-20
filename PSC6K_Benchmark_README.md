@@ -1,4 +1,4 @@
-# Photo-Sketch Correspondence Benchmarking (*PSC6K*)
+# Photo-Sketch Correspondence Benchmark (*PSC6K*)
 
 ## Overview
 We developed ***PSC6k***, a photo-sketch correspondence dataset consisting of **150,000 pairs of keypoint annotations** 
