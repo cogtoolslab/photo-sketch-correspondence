@@ -305,4 +305,4 @@ class PSCNet(nn.Module):
         weight = torch.max(corr, dim=2)[0]
         weight = weight - weight.min()
         weight = weight / weight.max()
-        return [corr], [weight]
+        return [corr], [weight.detach()]
