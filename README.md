@@ -2,7 +2,7 @@
 We introduce a new benchmark and a weakly-supervised method for learning the dense correspondences between photos and sketches. 
 This repository is the official PyTorch implementation of our paper: 
 
-[**Learning Dense Correspondences between Photos and Sketches**, *Xuanchen Lu*, *Xiaolong Wang*, *Judith Fan*](https://arxiv.org/abs/2202.11094),
+[**Learning Dense Correspondences between Photos and Sketches**, *Xuanchen Lu*, *Xiaolong Wang*, *Judith Fan*](https://arxiv.org/abs/2307.12967),
 ICML 2023.
 
 <div align="center">
